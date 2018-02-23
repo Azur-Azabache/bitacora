@@ -51,6 +51,7 @@ width: 100%;
   	     -o-background-size: cover;
   	        background-size: cover;
 }
-.btn{
-margin-top: 20%;
+#btn{
+  position: relative;
+  top: 300px;
 }
