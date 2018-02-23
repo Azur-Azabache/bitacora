@@ -29,5 +29,5 @@ $('#btn').on('click',function(){
     var credential = error.credential;
     // ...
   });
-
+ window.location.href = '../views/bitacora.html';
 });
